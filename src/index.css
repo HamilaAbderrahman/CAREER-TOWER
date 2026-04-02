@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #070714;
+  overflow: hidden;
+  font-family: 'Press Start 2P', monospace;
+  color: #fff;
+  /* Prevent iOS bounce scroll and text selection during gameplay */
+  overscroll-behavior: none;
+  -webkit-user-select: none;
+  user-select: none;
+  touch-action: none;
+}
+
+#root {
+  width: 100vw;
+  width: 100dvw;
+  height: 100vh;
+  height: 100dvh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Phaser canvas — scale to fit viewport while keeping 800×600 ratio */
+canvas {
+  display: block;
+  max-width: min(100vw, calc(100vh * 400 / 700));
+  max-width: min(100dvw, calc(100dvh * 400 / 700));
+  max-height: 100vh;
+  max-height: 100dvh;
+  width: min(100vw, calc(100vh * 400 / 700)) !important;
+  width: min(100dvw, calc(100dvh * 400 / 700)) !important;
+  height: auto !important;
+  image-rendering: pixelated;
+}

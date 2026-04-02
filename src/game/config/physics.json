@@ -1,0 +1,15 @@
+{
+  "physics": {
+    "GRAVITY": 600,
+    "JUMP_VELOCITY": -620,
+    "MOVE_SPEED": 220,
+    "MAX_FALL_SPEED": 800,
+    "COYOTE_TIME": 120,
+    "JUMP_BUFFER": 150,
+    "VARIABLE_JUMP": true
+  },
+  "canvas": {
+    "WIDTH": 400,
+    "HEIGHT": 700
+  }
+}

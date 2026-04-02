@@ -1,0 +1,47 @@
+{
+  "idle": [
+    "git commit -m 'wip'",
+    "npm install...",
+    "why is it working?",
+    "undefined is not a function",
+    "just one more fix",
+    "it works on my machine",
+    "semicolons matter",
+    "console.log everywhere",
+    "who wrote this?",
+    "oh wait, it was me",
+    "stack overflow time",
+    "LGTM",
+    "ship it",
+    "rebase or merge?",
+    "need more coffee"
+  ],
+  "jump": [
+    "leveling up!",
+    "to the cloud!",
+    "higher!",
+    "next milestone!",
+    "ctrl+z... wait",
+    "deploying!",
+    "no bugs up here",
+    "typescript ftw",
+    "404: ground not found"
+  ],
+  "milestone": [
+    "unlocked!",
+    "new chapter!",
+    "skills++",
+    "never stop learning",
+    "shipped!",
+    "this changed everything",
+    "keep climbing"
+  ],
+  "idle_rare": [
+    "13 years of this",
+    "still love it",
+    "AI won't replace curiosity",
+    "craft matters",
+    "build things that last",
+    "stay curious"
+  ]
+}

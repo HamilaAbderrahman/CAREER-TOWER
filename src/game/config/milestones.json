@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "label": "Licence CS · Monastir",
+    "year": "2008–2011",
+    "desc": "Faculty of Sciences, Monastir, Tunisia. Algorithms, The foundation of everything.",
+    "worldY": 0,
+    "bg": "#08101e",
+    "platformColor": "#1a3366",
+    "accent": "#4488ff"
+  },
+  {
+    "id": 1,
+    "label": "Masters + Internships",
+    "year": "2011–2013",
+    "desc": "Masters in Engineering Information Systems. Internships at Easysoft, Skydeveloppeurs and Optans. Ship or learn — both.",
+    "worldY": 1200,
+    "bg": "#0a1a0e",
+    "platformColor": "#1a5533",
+    "accent": "#33cc66"
+  },
+  {
+    "id": 2,
+    "label": "Rielnet · First Job",
+    "year": "2013–2014",
+    "desc": "Sousse, Tunisia. Junior web developer. jQuery, HTML5, WordPress. First real paycheck. Real world.",
+    "worldY": 2600,
+    "bg": "#18081a",
+    "platformColor": "#441166",
+    "accent": "#aa44cc"
+  },
+  {
+    "id": 3,
+    "label": "Mobelite · Senior Dev",
+    "year": "2014–2018",
+    "desc": "Monastir. 4 years of craft. Ionic, Angular, React, Symfony. Grew from junior to senior. Trained students on the side.",
+    "worldY": 4200,
+    "bg": "#1a0808",
+    "platformColor": "#661122",
+    "accent": "#ff4455"
+  },
+  {
+    "id": 4,
+    "label": "CHECK24 · Munich",
+    "year": "2018",
+    "desc": "Munich unlocked. New country, new level. Vue.js, React, Symfony PHP. The leap that changed everything.",
+    "worldY": 6000,
+    "bg": "#1a1000",
+    "platformColor": "#774400",
+    "accent": "#ffaa00"
+  },
+  {
+    "id": 5,
+    "label": "SinnerSchrader",
+    "year": "2018–2022",
+    "desc": "Product Engineer, Munich. TypeScript, React, Vue. Craft at scale. Real product teams. This is where it clicked.",
+    "worldY": 8000,
+    "bg": "#0d0820",
+    "platformColor": "#3d1a66",
+    "accent": "#9955ff"
+  },
+  {
+    "id": 6,
+    "label": "Accenture Song",
+    "year": "2022–now",
+    "desc": "SinnerSchrader gets acquired. Same team, bigger stage. Leading frontend architecture. 13 years of craft meeting enterprise scale.",
+    "worldY": 10200,
+    "bg": "#08081a",
+    "platformColor": "#223388",
+    "accent": "#5577ff"
+  },
+  {
+    "id": 7,
+    "label": "Bonus - Product Engineer · AI Era",
+    "year": "2026–now",
+    "desc": "LLMs, Cursor, n8n, MCP, Ollama. Engineering WITH AI — not just alongside it. The practice is changing. Leading that change.",
+    "worldY": 12600,
+    "bg": "#001a18",
+    "platformColor": "#115544",
+    "accent": "#00ffcc"
+  }
+]
